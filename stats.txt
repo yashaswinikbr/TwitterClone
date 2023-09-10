@@ -1,0 +1,20 @@
+No of users 100
+Time for create users 2
+Time for subscribe 3
+Time for sendtweets 7
+Time for queries 576
+No of users 100
+Time for create users 1
+Time for subscribe 4
+Time for sendtweets 12
+Time for queries 863
+No of users 1000
+Time for create users 19
+Time for subscribe 22
+Time for sendtweets 167
+Time for queries 433
+No of users 100
+Time for create users 4
+Time for subscribe 3
+Time for sendtweets 12
+Time for queries 51
